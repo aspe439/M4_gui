@@ -1,2 +1,2 @@
-# M4_gui
-Modified from Yang (y34371)
+# Lab_UI
+Lab's user interface project
